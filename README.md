@@ -1,2 +1,2 @@
 # meus-projetos
- meu peimeiro repositorio versionado
+ Meu primeiro repositorio versionado
